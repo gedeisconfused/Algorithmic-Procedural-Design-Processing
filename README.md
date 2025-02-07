@@ -10,7 +10,7 @@ dcf_project/
 
 ├── final_shape.pde   Module containing the procedural algorithm
 
-├── sketch.py   Draft sketch behind the algorithm's logic
+├── Sketch.pdf   Draft sketch behind the algorithm's logic
 
 ├── particle_image.png   Random art result: Example 1
 
